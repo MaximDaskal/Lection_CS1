@@ -11,6 +11,7 @@ xc = 80, yc = 30;
 //Console.WriteLine("+");
 //Console.SetCursorPosition(xc, yc);
 //Console.WriteLine("+");
+Console.WriteLine("Начинаем строительство треугольника");
 
 
 int x = xa, y = xb;
